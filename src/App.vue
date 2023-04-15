@@ -89,7 +89,7 @@ function salvarHobbies() {
     </form>
     <div v-if="mostrarInfo" class="info">
       <h1>Suas informacoes</h1>
-      <img src="src\assets\imgs\Lindo voce e lindo.jpg" alt="">
+      <img src="/lindo.jpg" alt="">
         <div class="infos">
           <p>Nome: {{ nome }}</p>
           <p>Email: {{ email }}</p>
